@@ -12,7 +12,7 @@
   
   <servlet>
   <servlet-name>DispatcherServlet</servlet-name>
-  <servlet-class>week9.com.sahil.dispatcher.DispatcherServlet</servlet-class>
+  <servlet-class>week9.com.amey.dispatcher.DispatcherServlet</servlet-class>
 </servlet>
 
 <servlet-mapping>
